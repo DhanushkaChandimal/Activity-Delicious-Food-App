@@ -50,3 +50,10 @@ main {
     color: #555;
     margin-top: 10px;
 }
+
+footer {
+    background-color: #ff6347;
+    text-align: center;
+    padding: 20px 0px;
+    color: white;
+ }
