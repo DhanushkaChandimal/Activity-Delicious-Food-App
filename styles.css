@@ -20,6 +20,9 @@ header {
 
 main {
     padding: 20px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
 }
 
 .card-container {
@@ -56,4 +59,9 @@ footer {
     text-align: center;
     padding: 20px 0px;
     color: white;
+ }
+ .wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
  }
